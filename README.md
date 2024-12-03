@@ -7,4 +7,4 @@ into a binary file that can subsequently be executed by the emulator. We also cr
 
 Finally, our assembler allows for commenting in assembly files, which isn't usually supported, to grant a slightly more comfortable coding experience in assembly. These use the ```//``` line by line commenting syntax. You can see an example of commented assembly in [led_blink-commented.s](https://github.com/BnjmnCummings/ARMv8-Emulator-and-Assembler/blob/main/programs/led_blink_commented.s).
 
-If you like our ARMv8 Emulator and Assembler, why not try [PintOS](https://github.com/BnjmnCummings/PintOS)?
+If you like our ARMv8 Emulator and Assembler, why not try... [PintOS](https://github.com/BnjmnCummings/PintOS)?
